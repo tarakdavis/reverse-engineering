@@ -1,0 +1,123 @@
+body {
+      background: url("http://static1.squarespace.com/static/53fe025fe4b09b99036bcf87/t/540f14b0e4b09b2dbb2ea47a/1410274487996/EbruYildiz_372.jpg") no-repeat center center fixed,
+        url("http://static1.squarespace.com/static/53fe025fe4b09b99036bcf87/t/540a0851e4b05c669b01c140/1409943641580/nebula.jpg") no-repeat center center fixed;
+      cursor: pointer;
+      opacity: 0.76;
+      background-size: cover;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      vertical-align: middle;
+      text-align: center;
+    }
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#navbar {
+  width: 100%;
+  display: inline-block;
+  background: rgba(0,0,0,0);
+  border: 0px;
+}
+
+.container-fluid {
+  width: 100%;
+  vertical-align: middle;
+  display: block;
+  margin:0 auto;
+  text-align: center;
+}
+
+div.collapse.navbar-collapse {
+  margin: 0 auto;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+div.navbar-header{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+
+div.navbar.navbar-default.navbar-static-top {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+
+button.navbar-toggle{
+  border: 0px;
+}
+
+ul.nav.navbar-nav li a{
+  width: 100%;
+}
+
+div.nav.navbar-nav {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+
+#ntext{
+ color: #C8BDB5;
+ font-size: small;
+}
+
+#atext{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+ color: #C8BDB5;
+ font-size: large;
+ border: 1px solid-white;
+ display: inline-block;
+}
+
+div.col-md-12 {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+#ntext:hover{
+  width: 100%;
+  margin: 0 auto;
+  color: #ECE8E6;
+}
+#ctext{
+  color: #ECE8E6;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.container-table {
+    display: table;
+}
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#ytext{
+  width: 100%;
+  margin: 0 auto;
+  color: #C2AA96;
+  font-size: 24px;
+  font-weight: bold;
+  style="letter-spacing: 0.166667em;
+ }
+
+.twoRow.navbar-collapse {
+  clear: left;
+  text-align: center;
+}
